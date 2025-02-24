@@ -6,15 +6,21 @@ Hello, I'm Eric Todasco 👋
 🌱 I’m continously learning Full Stack Web Development.
   
 💻 The tech stack i'm currently using:
+- Chrome Dev Tools
 - Git / Github
 - Ruby
 - Ruby on Rails
 - HTML
-- CSS
+- CSS (Bootstrap)
 - JavaScript
+- jQuery
+- Express.js
+- Node.js
+- React.js
+- Rest API's
 - SQL
+- PostgreSQL
 - Figma
 - Heroku
 - Copilot
 - OpenAI
-- Chrome dev tools
