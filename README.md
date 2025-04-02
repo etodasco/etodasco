@@ -5,6 +5,7 @@ Hello, I'm Eric Todasco 👋
 🔭 Currently working on my next web application project.
 
 🌱 Continously learning other realated technologies to Full Stack Web Development.
+
 📚 Currently learning and exploring Python, Django, PostgreSQL and React
 
   
