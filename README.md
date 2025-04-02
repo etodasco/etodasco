@@ -6,7 +6,7 @@ Hello, I'm Eric Todasco 👋
 
 🌱 Continously learning other realated technologies to Full Stack Web Development.
 
-📚 Currently learning and exploring Python, Django, PostgreSQL and React
+📚 Currently exploring Python, Django, PostgreSQL and React.
 
   
 💻 The tech stack i'm currently using:
